@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+      * {
+          margin: 0;
+          margin: auto;
+      }
+       #w2,#w1 {
+            background: rgba(18, 18, 3, 0.01);
+            width: 2100px;
+            height: 2000px;
+
+        }
+#a3,
+#a4,
+#a5,
+#a6
+{
+    float: left;
+
+}
+#clear {
+    clear: both;
+}
+#a9 {background: black;
+    　　width:2100px;
+    height: 40px;
+    padding-top: 10px;
+}
+ul {
+    color: black;
+    list-style: none;
+
+}
+li {
+    width: 250px;
+    height: 30px;
+    float: left;
+    margin: auto;
+}
+#b1,#b5,
+#b2,#b6,
+#b3,#b7,
+#b4 {width: 220px;
+    float: left;
+     height: 400px;
+    padding: 40px;
+    background: aliceblue;
+
+}
+
+    </style>
+
+</head>
+<body>
+<div id="w1">
+    <div id="a9"><ul style="color: #dddddd"><li><img src="image/小logo.png" height="55" width="144"/></li> <li>Mac</li><li>ipad </li><li>iphone</li><li>Watch</li><li>TV</li><li>Music</li><li>support</li>                                                   </ul></div>
+    <div id="a2"><a href="http://apple.com"><img src="image/watch_alt_medium.jpg" height="900" width="2100"/></a></div>
+     <div id="a3"><img src="image/1 (1).png" height="300" width="525"/></div>
+     <div id="a4"><img src="image/1 (2).png" height="300" width="525"/></div>
+    <div id="a5"><img src="image/3.png" height="300" width="525"/></div>
+    <div id="a6"><img src="image/accessories_medium.jpg" height="300" width="525"/></div>
+
+
+    <div id="b1">     </div>
+    <div id="b2"><ul><li>Shop and Learn</li><li>mac</li><li>ipad</li><li>iphone</li><li>watch</li><li>TV</li><li>Music</li><li>iTunes</li><li>ipod</li><li>Accessories</li><li>Gift gards</li> </ul></div>
+    <div id="b3"><ul><li>Apple Store</li><li>Find a Store</li><li>Genius bar</li><li>Workshops and Learning</li><li>Youth Programs</li><li>Apple Store App</li><li>Refurbished and Clearance</li><li>Financing</li><li>Reuse and Recycling</li><li>Order Status</li><li>Shopping Help</li>  </ul></div>
+    <div id="b4"><ul><li>For Education</li><li>Apple and Education</li><li>Shop for College</li><li></li><li>For Business</li><li>Apple and Business</li><li>Shop for Business</li>   </ul></div>
+    <div id="b5"><ul>
+        <li>      Account                              </li>
+        <li>        Manage Your Apple ID                            </li>
+        <li>            Apple Store Account                        </li>
+        <li>                 iCloud.com                   </li>
+        <li>               Apple Values                     </li>
+        <li>                                    </li>
+        <li>             Accessibility                       </li>
+        <li>               Education                     </li>
+        <li>                 Environment                    </li>
+        <li>                    Inclusion and Diversity                </li>
+        <li>Privacy</li>
+        <li>           Supplier Responsibility                         </li>
+
+    </ul></div>
+    <div id="b6"><ul>
+        <li>About Apple</li>
+        <li> Apple Info</li>
+        <li>Newsroom</li>
+        <li>Job Opportunities</li>
+        <li> Press Info</li>
+        <li>Investors</li>
+        <li>Events</li>
+        <li>Contact Apple</li>
+    </ul></div>
+    <div id="b7"></div>
+    <div id="clear"></div>
+</div>
+</body>
+</html>
